@@ -4,3 +4,4 @@ const myFunction = ()=>{
 		consle.log(i);
 	}
 }
+test
